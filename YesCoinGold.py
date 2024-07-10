@@ -431,7 +431,6 @@ def main():
             collected_amount = attempt_collect_special_box(token, 1, 200) 
             time.sleep(2)
 
-        print(f"\n{Fore.YELLOW+Style.BRIGHT}All accounts have been successfully processed", end="", flush=True)
         import sys
         waiting_time = 15
         for second in range(waiting_time, 0, -1):
