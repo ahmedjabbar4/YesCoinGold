@@ -30,7 +30,7 @@ Click the following url to register : [YesCoinGold Bot](https://t.me/theYescoin_
 
 2. Clone this repository
    ```shell
-   git clone https://github.com/BlackDragonHacker/YesCoinGold.git
+   git clone https://github.com/ahmedjabbar4/YesCoinGold.git
    ```
 
 3. goto tomarketod directory
