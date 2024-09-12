@@ -31,8 +31,8 @@ def print_welcome_message():
 r"""----------------------------------""" + "\033[0m")
 print_welcome_message()
 print("\033[1;93mScript created by: Black Dragon Hacker\033[0m")
-print("\033[1;92mJoin Telegram: \nhttps://t.me/BlackDragonHacker007\033[0m")
-print("\033[1;91mVisit my GitHub: \nhttps://github.com/BlackDragonHacker\033[0m")
+print("\033[1;92mJoin Telegram: \nhttps://t.me/devloper_Ahmed\033[0m")
+
 print("\033[1;96m----------------------------------\033[0m")
 print("\033[1;38;2;139;69;19;48;2;173;216;230m--------[YesCoin (Gold) Bot]--------\033[0m")
 print("\033[1;96m----------------------------------\033[0m")
